@@ -1,0 +1,15 @@
+# ignore all file and directory
+*
+
+# don't ignore all directory
+!/**/
+
+# don't ignore all appointed suffix file
+!.gitignore
+!*.txt
+!*.md
+!Makefile
+!*.c
+!*.h
+!*.sh
+!*.py
